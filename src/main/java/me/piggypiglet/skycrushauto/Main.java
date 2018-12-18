@@ -5,4 +5,7 @@ package me.piggypiglet.skycrushauto;
 // https://www.piggypiglet.me
 // ------------------------------
 public class Main {
+    public static void main(String[] args) {
+        System.out.println("Remember to report your e girl to the IRS for the #ThotAudit");
+    }
 }
